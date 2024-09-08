@@ -1,6 +1,6 @@
 ## Data Analyst, Software Developer
 
-> [resumé](https://drive.google.com/file/d/1mNnulSgchDYNiMpJ61kg8w3eCWOv3-yM/view?usp=sharing)
+<!-- > [resumé](https://drive.google.com/file/d/1mNnulSgchDYNiMpJ61kg8w3eCWOv3-yM/view?usp=sharing) -->
 
 Tech Stack
 ---
